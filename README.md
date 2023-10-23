@@ -1,5 +1,6 @@
 ## Processando-e-Transformando-Dados-com-Power-BI
-Desafio Bootcamp DIO Power BI
+
+#Desafio Bootcamp DIO Power BI
 
 1 - Verificado os cabeçalhos e os tipos de dados das consultas.
 
@@ -17,7 +18,7 @@ Desafio Bootcamp DIO Power BI
 
 8 - Realizado a separação da Coluna de endereço e criando as seguintes : Número, Cidade e Estado.
 
-9 - Realizedo a mescla da consulta Employee e Departament.
+9 - Realizado a mescla da consulta Employee e Departament.
 
 10 - Colunas desnecessárias excluidas.
 
