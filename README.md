@@ -33,5 +33,7 @@ Desafio Bootcamp DIO Power BI
 
 16 - A última limpeza nos dados foram realizadas, retirando todas as colunas desnecessárias.
 
+![Página 1 PBI do Desafio](2023-10-23.png)
+
 #Grato por ler este relatório
 
